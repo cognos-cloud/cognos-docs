@@ -64,8 +64,8 @@ Output:
 
   ● Agent deployed successfully
 
-  Dashboard  https://cloud.cognos.ai/agents/my-agent
-  API        POST https://api.cognos.ai/v1/agents/my-agent/run
+  Dashboard  https://cognoscloud.xyz/agents/my-agent
+  API        POST https://api.cognoscloud.xyz/v1/agents/my-agent/run
   Status     Running
 ```
 
@@ -77,8 +77,8 @@ Every deployed agent automatically gets:
 
 | Feature | Description |
 |---|---|
-| **Live dashboard** | Logs, metrics, cost, memory — at `cloud.cognos.ai/agents/{name}` |
-| **REST API endpoint** | `POST https://api.cognos.ai/v1/agents/{name}/run` |
+| **Live dashboard** | Logs, metrics, cost, memory — at `cognoscloud.xyz/agents/{name}` |
+| **REST API endpoint** | `POST https://api.cognoscloud.xyz/v1/agents/{name}/run` |
 | **Auto-restart** | Cognos restarts the agent if it crashes |
 | **Persistent memory** | Context stored across sessions (when `memory=True`) |
 | **Cron scheduling** | Run on any schedule (when `cron` is set) |

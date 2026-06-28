@@ -4,7 +4,7 @@
 
 ---
 
-Every agent execution is recorded as a structured trace. View them in the dashboard at `cloud.cognos.ai/agents/{name}`.
+Every agent execution is recorded as a structured trace. View them in the dashboard at `cognoscloud.xyz/agents/{name}`.
 
 ## What's available now
 

@@ -45,7 +45,7 @@ agent = Agent(
 
 After deploy, your agent listens at:
 ```
-POST https://api.cognos.ai/v1/agents/github-agent/webhook/github
+POST https://api.cognoscloud.xyz/v1/agents/github-agent/webhook/github
 ```
 
 ## Restart policy

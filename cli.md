@@ -98,7 +98,7 @@ Open the agent dashboard in your browser.
 cognos monitor my-agent
 ```
 
-Opens `https://cloud.cognos.ai/agents/my-agent`.
+Opens `https://cognoscloud.xyz/agents/my-agent`.
 
 ---
 

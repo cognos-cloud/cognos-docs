@@ -2,7 +2,7 @@
 
 Every deployed agent automatically gets a REST API endpoint.
 
-**Base URL:** `https://api.cognos.ai/v1`
+**Base URL:** `https://api.cognoscloud.xyz/v1`
 
 All requests require:
 ```
@@ -10,7 +10,7 @@ Authorization: Bearer YOUR_API_KEY
 Content-Type: application/json
 ```
 
-Generate API keys from your dashboard at `cloud.cognos.ai`.
+Generate API keys from your dashboard at `cognoscloud.xyz`.
 
 ---
 
